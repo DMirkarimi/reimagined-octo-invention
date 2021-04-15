@@ -10,4 +10,4 @@ window.addEventListener("scroll", function()
     })
 
 for (element of document.getElementsByClassName("textlink")){
-    element.style.setProperty("--before-width", element.length);}
+    element.style.setProperty("--before-width", element.offsetWidth);}
