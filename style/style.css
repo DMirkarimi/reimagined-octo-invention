@@ -65,31 +65,6 @@ nav .textlink:before {
   transition: all 0.3s ease-in-out 0s;
 }
 
-#first:before{
-    
-  width: 6.5em;
-  height: 2px;
-  bottom: 8px;
-  background-color: white;
-}
-
-
-#second:before{
-    
-  width: 3em;
-  height: 2px;
-  bottom: 8px;
-  background-color: white;
-}
-
-#third:before{
-    
-  width: 8.4em;
-  height: 2px;
-  bottom: 8px;
-  background-color: white;
-}
-
 
 nav .textlink:hover:before {
   visibility: visible;
